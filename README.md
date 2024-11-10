@@ -10,7 +10,7 @@
 <body>
 <header>
     <h1>Bienvenidos a la web Portfolio</h1>
-    <p>Esta es una página creado con <strong>HTML Y CSS</strong>.</p>
+    <p>Esta es una página creada con <strong>HTML Y CSS</strong>.</p>
 </header>
 </body>
 </html>
